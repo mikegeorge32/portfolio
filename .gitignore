@@ -1,7 +1,0 @@
-node_modules
-.DS_Store
-LICENSE
-README.md
-Dockerfile
-package-lock.json
-pug
